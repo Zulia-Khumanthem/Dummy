@@ -1,2 +1,2 @@
 # Dummy
-Hey This is zulia Khumanthem.
+Hey This is Zulia Khumanthem.
